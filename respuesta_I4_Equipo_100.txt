@@ -1,4 +1,10 @@
-A blue
-B yellow
-C blue
-D el de beta
+A) blue
+B) yellow
+C) blue
+D) el de beta
+E) si, beta y gamma
+F) tuvimos que hacer git pull antes de git push(beta  y gamma)
+G) agregar el git pull
+H) Gamma hace push, si luego beta hace push - f (sin hacer pull antes)
+	los datos y se pisan y lo que hizo gamma no aparece
+I) git merge de MASTER a DESARROLLO
