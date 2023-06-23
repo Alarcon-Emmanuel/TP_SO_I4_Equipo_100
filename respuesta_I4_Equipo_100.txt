@@ -7,4 +7,5 @@ F) tuvimos que hacer git pull antes de git push(beta  y gamma)
 G) agregar el git pull
 H) Gamma hace push, si luego beta hace push - f (sin hacer pull antes)
 	los datos y se pisan y lo que hizo gamma no aparece
-I) git merge de MASTER a DESARROLLO
+I) que cada miembro realize un pull antes del pushs para no pisarce mutuamente, 
+	y luego realizar un merge a DESARROOLO
